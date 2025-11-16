@@ -69,7 +69,7 @@ Build a full conversational chatbot
 👤 Author
 
 Sagar Lokare
-AI & Analytics Consultant | Building end-to-end GenAI Solutions
+Fractal Senior Consultant | Building end-to-end GenAI Solutions
 
 ⭐ Show Support
 
